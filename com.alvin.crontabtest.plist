@@ -1,0 +1,4 @@
+launchctl lodate >> /tmp/MyLaunchdTest.out
+ad com.alvin.crontabtest.plistdate >> /tmp/MyLaunchdTest.out
+date >> /tmp/MyLaunchdTest.out
+launchctl unload com.alvin.crontabtest.plist

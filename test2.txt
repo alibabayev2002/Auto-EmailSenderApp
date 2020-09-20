@@ -1,0 +1,2 @@
+cat: test.txt: No such file or directory
+No Java runtime present, requesting install.

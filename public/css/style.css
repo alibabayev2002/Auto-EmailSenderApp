@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: black;
+    border: none !important;
+}
+a:hover{
+    border: none;
+    text-decoration: none;
+}

@@ -1,0 +1,115 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Messages Object
+                (
+                    [table:protected] => messages
+                    [fillable:protected] => Array
+                        (
+                            [0] => id
+                            [1] => sender
+                            [2] => subject
+                            [3] => receiver
+                            [4] => content
+                            [5] => hour
+                            [6] => weekday
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 10
+                            [sender] => acemiyt23@gmail.com
+                            [subject] => asa
+                            [receiver] => 1,2
+                            [content] => skjdlwkqhdw
+                            [hour] => 20:05
+                            [weekday] => 6
+                            [created_at] => 
+                            [updated_at] => 
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 10
+                            [sender] => acemiyt23@gmail.com
+                            [subject] => asa
+                            [receiver] => 1,2
+                            [content] => skjdlwkqhdw
+                            [hour] => 20:05
+                            [weekday] => 6
+                            [created_at] => 
+                            [updated_at] => 
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)

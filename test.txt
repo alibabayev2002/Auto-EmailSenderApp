@@ -1,0 +1,5 @@
+Array
+(
+    [content] => skjdlwkqhdw
+    [subject] => asa
+)
