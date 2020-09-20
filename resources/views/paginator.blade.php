@@ -1,5 +1,5 @@
 
-@if(count($elements) > 1)
+@if(count($elements) >= 1)
 <ul class="pagination">
     <!-- Previous Page Link -->
     @if ($paginator->onFirstPage())
